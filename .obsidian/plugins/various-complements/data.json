@@ -1,0 +1,695 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "\\end{align}": {
+      "\\end{align}": {
+        "currentFile": {
+          "count": 8,
+          "lastUpdated": 1694510601895
+        }
+      }
+    },
+    "\\begin{align}": {
+      "\\begin{align}": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1694510597034
+        }
+      }
+    },
+    "parallelschakeling": {
+      "parallelschakeling": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694592263943
+        }
+      }
+    },
+    "Serieschakeling": {
+      "Serieschakeling": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1694594177129
+        }
+      }
+    },
+    "Spanning": {
+      "Spanning": {
+        "internalLink": {
+          "count": 21,
+          "lastUpdated": 1694594006644
+        }
+      }
+    },
+    "Variabele": {
+      "Variabele": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1694076963052
+        }
+      }
+    },
+    "printf": {
+      "printf": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694077907051
+        }
+      }
+    },
+    "Microcontrollers Programmeren": {
+      "Microcontrollers Programmeren": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694351399587
+        }
+      }
+    },
+    "Statica": {
+      "Statica": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1694353500555
+        }
+      }
+    },
+    "Microcontroller": {
+      "Microcontroller": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1694075966884
+        }
+      }
+    },
+    "Stroom": {
+      "Stroom": {
+        "internalLink": {
+          "count": 14,
+          "lastUpdated": 1694593746088
+        }
+      }
+    },
+    "Weerstand": {
+      "Weerstand": {
+        "internalLink": {
+          "count": 7,
+          "lastUpdated": 1694594217817
+        }
+      }
+    },
+    "afbeelding": {
+      "afbeelding": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694006271981
+        }
+      }
+    },
+    "comment": {
+      "comment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1693996469919
+        }
+      }
+    },
+    "Pinnummer": {
+      "Pinnummer": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1693997607909
+        }
+      }
+    },
+    "Schema": {
+      "Schema": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1694075570828
+        }
+      }
+    },
+    "Pinout": {
+      "Pinout": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694075641084
+        }
+      }
+    },
+    "Elektrische Netwerken": {
+      "Elektrische Netwerken": {
+        "internalLink": {
+          "count": 4,
+          "lastUpdated": 1694353291466
+        }
+      }
+    },
+    "MOS-transistoren": {
+      "MOS-transistoren": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694006126726
+        }
+      }
+    },
+    "Gate": {
+      "Gate": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694006240574
+        }
+      }
+    },
+    "Source": {
+      "Source": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694006309709
+        }
+      }
+    },
+    "Drain": {
+      "Drain": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694006306218
+        }
+      }
+    },
+    "Ideale schakelaar": {
+      "Ideale schakelaar": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694006915691
+        }
+      }
+    },
+    "banks": {
+      "banks": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694075706772
+        }
+      }
+    },
+    "Output pin": {
+      "Output pin": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694075778633
+        }
+      }
+    },
+    "documentatie": {
+      "documentatie": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694075961230
+        }
+      }
+    },
+    "Operators": {
+      "Operators": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1694077373690
+        }
+      }
+    },
+    "gebruiken": {
+      "gebruiken": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694079327362
+        }
+      }
+    },
+    "int": {
+      "int": {
+        "internalLink": {
+          "count": 6,
+          "lastUpdated": 1694681115022
+        }
+      }
+    },
+    "relationele": {
+      "relationele": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694077395365
+        }
+      }
+    },
+    "adresoperator": {
+      "adresoperator": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694078934718
+        }
+      }
+    },
+    "kwadraat": {
+      "kwadraat": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694078986287
+        }
+      }
+    },
+    "float": {
+      "float": {
+        "internalLink": {
+          "count": 5,
+          "lastUpdated": 1694160198563
+        }
+      }
+    },
+    "Formatted strings": {
+      "Formatted strings": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1694079312412
+        }
+      }
+    },
+    "maatregelen": {
+      "maatregelen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694092335319
+        }
+      }
+    },
+    "Gebod": {
+      "Gebod": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694092748616
+        }
+      }
+    },
+    "Markeringen": {
+      "Markeringen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694092849035
+        }
+      }
+    },
+    "Persoonlijke": {
+      "Persoonlijke": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694092965587
+        }
+      }
+    },
+    "Handelt": {
+      "Handelt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694092989243
+        }
+      }
+    },
+    "Longen": {
+      "Longen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694093387897
+        }
+      }
+    },
+    "werkplek": {
+      "werkplek": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694093437302
+        }
+      }
+    },
+    "gevarendiamant": {
+      "gevarendiamant": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694093564469
+        }
+      }
+    },
+    "Electriciteit": {
+      "Electriciteit": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694093776211
+        }
+      }
+    },
+    "Noodsituaties": {
+      "Noodsituaties": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694094891269
+        }
+      }
+    },
+    "Bassiswiskunde": {
+      "Bassiswiskunde": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694351408566
+        }
+      }
+    },
+    "2023-09-22": {
+      "2023-09-22": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1694352850103
+        }
+      }
+    },
+    "2023-10-06": {
+      "2023-10-06": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694351965303
+        }
+      }
+    },
+    "2023-10-13": {
+      "2023-10-13": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694351973754
+        }
+      }
+    },
+    "2023-10-19": {
+      "2023-10-19": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694351977510
+        }
+      }
+    },
+    "40abH12": {
+      "40abH12": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694353748450
+        }
+      }
+    },
+    "richtingscoëfficiënt": {
+      "richtingscoëfficiënt": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1694508480801
+        },
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694508548454
+        }
+      }
+    },
+    "\\text{richtingscoëfficiënt}\\\\": {
+      "\\text{richtingscoëfficiënt}\\\\": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694508357321
+        }
+      }
+    },
+    "vergelijking": {
+      "vergelijking": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694508587666
+        }
+      }
+    },
+    "lijnen": {
+      "lijnen": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694509087281
+        }
+      }
+    },
+    "functies": {
+      "functies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694509802000
+        }
+      }
+    },
+    "weerstanden": {
+      "weerstanden": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694594204711
+        }
+      }
+    },
+    "vervangingsweerstand": {
+      "vervangingsweerstand": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694592295658
+        }
+      }
+    },
+    "LED": {
+      "LED": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1694594168152
+        }
+      }
+    },
+    "stroombegrenzing": {
+      "stroombegrenzing": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694594424708
+        }
+      }
+    },
+    "compliment": {
+      "compliment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1694681381212
+        }
+      }
+    },
+    "Vergadering": {
+      "Vergadering": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1694774388656
+        }
+      }
+    },
+    "Yamairo": {
+      "Yamairo": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695202445324
+        }
+      }
+    },
+    "Femke": {
+      "Femke": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1695896219570
+        }
+      }
+    },
+    "Concepten": {
+      "Concepten": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1695202980380
+        }
+      }
+    },
+    "brugwachter": {
+      "brugwachter": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695378957050
+        }
+      }
+    },
+    "template": {
+      "template": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695379118752
+        }
+      }
+    },
+    "woord": {
+      "woord": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695379182137
+        }
+      }
+    },
+    "Jasper": {
+      "Jasper": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1695896223167
+        }
+      }
+    },
+    "Modern": {
+      "Modern": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695379210108
+        }
+      }
+    },
+    "Verslag": {
+      "Verslag": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1695896211734
+        }
+      }
+    },
+    "programmeren": {
+      "programmeren": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695895913629
+        }
+      }
+    },
+    "verslag": {
+      "verslag": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695896079808
+        }
+      }
+    },
+    "-bouw": {
+      "-bouw": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695896226683
+        }
+      }
+    },
+    "Maarten": {
+      "Maarten": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695896236916
+        }
+      }
+    },
+    "Connor": {
+      "Connor": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695896251623
+        }
+      }
+    },
+    "ConnoElmas": {
+      "ConnoElmas": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695896255505
+        }
+      }
+    },
+    "Elmas": {
+      "Elmas": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1695896261910
+        }
+      }
+    },
+    "Bruglichten": {
+      "Bruglichten": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1696587435431
+        }
+      }
+    },
+    "gemaakt": {
+      "gemaakt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1696587462096
+        }
+      }
+    },
+    "gelijmt": {
+      "gelijmt": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1696587532133
+        }
+      }
+    }
+  }
+}

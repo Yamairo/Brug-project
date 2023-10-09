@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Bijlages",
+  "showUnsupportedFiles": true,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Tangents",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

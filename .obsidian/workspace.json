@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "d4a35040f8c7865c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d93c4a9a7f958b21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c89e8c9dd285d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown van de code/Bruglichten.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "6a2f8eaf513a8308"
+          }
+        ]
+      },
+      {
+        "id": "83cee91e14074163",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9e96d1dcf17a13d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown van de code/Bruglichten.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "6a2f8eaf513a8308"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e55927003c81342f",
+    "type": "split",
+    "children": [
+      {
+        "id": "30bca1b2289679eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c45061857eda27e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "617b02984335ad36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"updated\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c20d51c0b2df5924",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "556d6bd278b78e64",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc64dbf42545eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8730b1d4783382",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Markdown van de code/Bruglichten.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "680fd53747989a9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Markdown van de code/Bruglichten.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcf0a61a9d8e6689",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f5d02416b5154e99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Markdown van de code/Bruglichten.md"
+              }
+            }
+          },
+          {
+            "id": "4c44dbe7adb618ba",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "8efa23b2f74a4104",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ae38e159ff8ff6f",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ed88ac2cc62da63",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d1393e503395be2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Week plan": false,
+      "card-board:CardBoard": false
+    }
+  },
+  "active": "0c89e8c9dd285d0f",
+  "lastOpenFiles": [
+    "Markdown van de code/Bruglichten.pdf",
+    "Vergadering week 6.md",
+    "Markdown van de code/Bruglichten.md",
+    "Vergadering week 5 met faber.md",
+    "Vergadering week 5.md",
+    "Vergadering week 4.md",
+    "Vergadering week 4 deel 2.md",
+    "Vergadering week 3.md",
+    "Presentatie Concepten.md",
+    "Vergadering.md",
+    "Code/Windmetertest/bin/Debug/Windmetertest.efs",
+    "Code/Windmetertest/bin/Debug/Windmetertest.hfs",
+    "Code/Windmetertest/bin/Debug/Windmetertest.lfs",
+    "Code/Windmetertest/bin/Debug/Windmetertest.fuse",
+    "Code/Windmetertest/bin/Debug/Windmetertest.sig",
+    "Code/Windmetertest/bin/Debug/Windmetertest.lock",
+    "Code/Windmetertest/bin/Debug/Windmetertest.eep",
+    "Code/Windmetertest/bin/Debug/Windmetertest.hex",
+    "Code/Windmetertest/bin/Debug/Windmetertest.lss",
+    "Code/Windmetertest/bin/Debug/Windmetertest.elf",
+    "Tangents/Untitled.md",
+    "Tangents/SLB presentatie.md",
+    "Bijlages/Pasted image 20230915105832.png",
+    "Huiswerk.md",
+    "Microcontrollers programmeren/Les 3 - Bitwise Operators.md",
+    "Elektrische netwerken/Les 3.md",
+    "Tangents/Ideale diode.md",
+    "Tangents/LED.md",
+    "Bijlages/Pasted image 20230913103520.png",
+    "Bijlages/Pasted image 20230913103111.png",
+    "Bijlages/Pasted image 20230913100440.png",
+    "Bijlages/Pasted image 20230913100151.png",
+    "Tangents/weerstanden.md",
+    "Bijlages/Pasted image 20230913095836.png",
+    "Elektrische netwerken/Les 2 - Vervangingsschema's, Weerstanden, Wet van Ohm, Schakelaars, Transistoren en H-brug.md",
+    "Tangents/H-brug.md",
+    "Bijlages/Pasted image 20230913095135.png",
+    "Bijlages/Pasted image 20230913095108.png",
+    "Bijlages/Pasted image 20230913095058.png",
+    "Bijlages/Pasted image 20230913095042.png",
+    "Elektrische Netwerken/Les 3.md",
+    "Statica/Les 3 - Momenten, koppels.md",
+    "Tangents/Stroomwet van Kirchhoff.md",
+    "Elektrische netwerken/Les 1 - Stroom, Spanning en de wetten van Kirchhoff.md",
+    "Tangents/Ideale draad.md",
+    "Tangents/Spanning.md"
+  ]
+}

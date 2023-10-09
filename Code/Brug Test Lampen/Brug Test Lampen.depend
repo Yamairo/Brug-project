@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695294374 source:c:\brug project\code\brug test lampen\fuse.c
+	<avr/io.h>
+
+1695295394 source:c:\brug project\code\brug test lampen\main.c
+	<avr/io.h>
+	<util/delay.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695810272 source:c:\brug project\code\testh\fuse.c
+	<avr/io.h>
+
+1695810272 source:c:\brug project\code\testh\main.c
+	<avr/io.h>
+

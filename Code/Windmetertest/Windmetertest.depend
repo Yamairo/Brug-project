@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1695899456 source:c:\brug project\code\windmetertest\fuse.c
+	<avr/io.h>
+

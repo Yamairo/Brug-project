@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Brug project\Sketches\Brug sketches\Brug sketches.kicad_sch</source>
+    <date>08/10/2023 16:19:57</date>
+    <tool>Eeschema 7.0.8</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Brug sketches.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>knipperlichten.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>bruglichten.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/dc motor h-brug/" tstamps="/62d47e78-f395-456b-b57c-baf817e3ac92/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>dc_motor_hbrug.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebdf2872-56e4-4588-84a1-94bacb6efe88</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b1ed66e-30b4-4fa3-a686-575217068a77</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53f0f86e-ade2-4acb-a811-65a527100732</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ed083f2-a091-43f2-99c3-b27ef5b68afa</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f097b97e-507f-4caf-b3d3-159a84bf2835</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56966c9c-e59c-42ba-be5e-f67b3b1fdf28</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>414fd8b5-d52b-4086-9956-c5c9ea7d5082</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd231f92-1f07-40ac-b28e-65aaac18247d</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6edc6134-1e31-4bce-8b46-b19948596679</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED Groen</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ee40fff-fe62-469a-966f-0aa5bce59dca</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED Geel</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6aecdde-81c9-4d56-a9b1-51cab7a61914</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbce0777-8c6f-44e0-93db-0dd10e061f12</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED Groen</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>091cde67-f17c-48ea-a741-2e098164bc5c</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>Motor_DC</value>
+      <libsource lib="Motor" part="Motor_DC" description="DC Motor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="DC Motor"/>
+      <property name="ki_keywords" value="DC Motor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>877a0aa5-eb8f-49ff-9622-3bfaee4d5b59</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BC547</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC550-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC547" description="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3b4354b-59d8-4a6c-94af-1048dff0e57a</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BC547</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC550-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC547" description="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>800809dd-234e-4ee7-b596-01b1e1d58bc9</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>BC547</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC550-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC547" description="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3ffa83a-ad9c-4c90-a470-1ba64fcc05df</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>BC547</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC550-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC547" description="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>283a74f9-e37f-41dc-91c0-2676309c3dcc</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>PNP</value>
+      <fields>
+        <field name="Sim.Device">PNP</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="PNP" description="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="Sim.Device" value="PNP"/>
+      <property name="Sim.Type" value="GUMMELPOON"/>
+      <property name="Sim.Pins" value="1=C 2=B 3=E"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="ki_keywords" value="simulation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d924e6d0-8e60-421b-9a54-017c6be78580</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>PNP</value>
+      <fields>
+        <field name="Sim.Device">PNP</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="PNP" description="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="Sim.Device" value="PNP"/>
+      <property name="Sim.Type" value="GUMMELPOON"/>
+      <property name="Sim.Pins" value="1=C 2=B 3=E"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="ki_keywords" value="simulation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7faba8f-88ec-453c-baee-7c7d5a2e1d0b</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>NPN</value>
+      <fields>
+        <field name="Sim.Device">NPN</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="NPN" description="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="Sim.Device" value="NPN"/>
+      <property name="Sim.Type" value="GUMMELPOON"/>
+      <property name="Sim.Pins" value="1=C 2=B 3=E"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="ki_keywords" value="simulation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75f474c9-20ca-4cc2-953a-af1ebdbe01b1</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>NPN</value>
+      <fields>
+        <field name="Sim.Device">NPN</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="NPN" description="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="Sim.Device" value="NPN"/>
+      <property name="Sim.Type" value="GUMMELPOON"/>
+      <property name="Sim.Pins" value="1=C 2=B 3=E"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="ki_keywords" value="simulation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd22535a-5f02-4122-b47e-c62d576f5f44</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10kR</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f85233f0-93c5-4055-9f6f-f82c108c083b</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10kR</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80b875f4-af1c-4377-9cbd-3adb7b65f32e</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10kR</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a93f4647-5307-4947-b1e3-aaa8e9cae2cd</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10kR</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3a19ba8-a606-4d70-8d21-33ccdf183c61</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>230R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5e1da78-55ea-4bb8-9fc3-5aca54e66eb1</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>230R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0f4dca9-c9eb-4f93-8b10-36fae8f80bd7</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>230R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7befdbfd-2d66-43e5-9a1d-cf6103aae7bb</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>230R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf86ff62-7d9c-4598-a86e-3b81d33ef209</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>230R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Brug sketches.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b15e018-e221-4e14-867c-b5fa23dc03bb</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>ebc8a295-e6a3-42a0-a53a-388f9940352c</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>bd7ebd2b-be7d-4987-8870-42a79130d4c4</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>5e788990-c193-476d-926e-fc3e4b60acd0</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Unpolarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>1eac4a62-4acf-4cd3-a7b7-fbd5cd0e9157</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>e4afdeef-d928-4772-a743-224a6c27319e</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>34abfa7d-6cb1-4d1b-a4ef-30ce3d309fe0</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>a2ba80c0-074a-4ba9-8b67-5f10382e5ee9</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>3820c93d-bf3c-4aff-8b8c-271910f94654</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>BC547</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC550-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC547" description="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>9bb80fd0-d50f-4747-ade7-413071fe762c</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>BC547</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC550-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC547" description="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>7116093a-85fe-4937-a2d8-db1736419cbb</tstamps>
+    </comp>
+    <comp ref="Q11">
+      <value>BC547</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC550-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC547" description="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>28c208f8-d31a-4eb2-a35c-aa1102673848</tstamps>
+    </comp>
+    <comp ref="Q12">
+      <value>BC547</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC550-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC547" description="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="ki_keywords" value="NPN Transistor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>87870270-b0a7-4a4c-a892-4901d1d5484a</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10kR</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>4d6432a9-befd-495e-aac6-aa1c8ed18bc0</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10kR</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>e7da9d66-d1dd-4e6e-a4fe-f28b7cec9be2</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10kR</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>2468b6e1-dddf-49a2-8967-405d6743ecd6</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10kR</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Knipperlichten"/>
+      <property name="Sheetfile" value="knipperlichten.kicad_sch"/>
+      <property name="Field2" value=""/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Knipperlichten/" tstamps="/03f4132f-1b1b-45f6-906c-eafb5f77bbce/"/>
+      <tstamps>fc0887d1-57f2-45fa-b00f-c77a305a749c</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="Bruglichten"/>
+      <property name="Sheetfile" value="bruglichten.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/"/>
+      <tstamps>644750d7-8603-45a8-a55f-ba308e60c1a9</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED Groen</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="Bruglichten"/>
+      <property name="Sheetfile" value="bruglichten.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/"/>
+      <tstamps>d2cc09a7-03d8-4485-8957-11364d0b3fec</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED Geel</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="Bruglichten"/>
+      <property name="Sheetfile" value="bruglichten.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/"/>
+      <tstamps>b7498a0f-89f8-45c0-99a6-04fee676c998</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED Rood</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="Bruglichten"/>
+      <property name="Sheetfile" value="bruglichten.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/"/>
+      <tstamps>f4ae8769-65ff-4ed5-8b6a-765f09e943a7</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED Groen</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value="Bruglichten"/>
+      <property name="Sheetfile" value="bruglichten.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/"/>
+      <tstamps>6e2b2843-8059-43be-8c5b-0ef48c4936e9</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>230R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bruglichten"/>
+      <property name="Sheetfile" value="bruglichten.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/"/>
+      <tstamps>aba27b9f-dfa0-45a4-b2db-5e925d24a9ab</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>230R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bruglichten"/>
+      <property name="Sheetfile" value="bruglichten.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/"/>
+      <tstamps>e77f2567-dd53-4a9f-8fad-296afb1e7029</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>230R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bruglichten"/>
+      <property name="Sheetfile" value="bruglichten.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/"/>
+      <tstamps>15cbcbdf-dfae-43e7-9577-0bbe64537940</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>230R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bruglichten"/>
+      <property name="Sheetfile" value="bruglichten.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/"/>
+      <tstamps>729cd46c-563c-4385-9bca-9bb72615bd9b</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>230R</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value="Bruglichten"/>
+      <property name="Sheetfile" value="bruglichten.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Bruglichten/" tstamps="/a506485a-42df-4775-a024-ad29b8e7f078/"/>
+      <tstamps>cac376a1-4a98-4be3-bfed-0047e25a4292</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>Motor_DC</value>
+      <libsource lib="Motor" part="Motor_DC" description="DC Motor"/>
+      <property name="Sheetname" value="dc motor h-brug"/>
+      <property name="Sheetfile" value="dc_motor_hbrug.kicad_sch"/>
+      <property name="ki_description" value="DC Motor"/>
+      <property name="ki_keywords" value="DC Motor"/>
+      <sheetpath names="/dc motor h-brug/" tstamps="/62d47e78-f395-456b-b57c-baf817e3ac92/"/>
+      <tstamps>64a395fa-e0f9-4d00-a721-3668e134bc01</tstamps>
+    </comp>
+    <comp ref="Q13">
+      <value>PNP</value>
+      <fields>
+        <field name="Sim.Device">PNP</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="PNP" description="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="Sim.Device" value="PNP"/>
+      <property name="Sim.Type" value="GUMMELPOON"/>
+      <property name="Sim.Pins" value="1=C 2=B 3=E"/>
+      <property name="Sheetname" value="dc motor h-brug"/>
+      <property name="Sheetfile" value="dc_motor_hbrug.kicad_sch"/>
+      <property name="ki_description" value="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="ki_keywords" value="simulation"/>
+      <sheetpath names="/dc motor h-brug/" tstamps="/62d47e78-f395-456b-b57c-baf817e3ac92/"/>
+      <tstamps>8fe25142-27a3-4738-a29e-c3c7f3c8792a</tstamps>
+    </comp>
+    <comp ref="Q14">
+      <value>NPN</value>
+      <fields>
+        <field name="Sim.Device">NPN</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="NPN" description="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="Sim.Device" value="NPN"/>
+      <property name="Sim.Type" value="GUMMELPOON"/>
+      <property name="Sim.Pins" value="1=C 2=B 3=E"/>
+      <property name="Sheetname" value="dc motor h-brug"/>
+      <property name="Sheetfile" value="dc_motor_hbrug.kicad_sch"/>
+      <property name="ki_description" value="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="ki_keywords" value="simulation"/>
+      <sheetpath names="/dc motor h-brug/" tstamps="/62d47e78-f395-456b-b57c-baf817e3ac92/"/>
+      <tstamps>3cd0f3e8-0d43-4c9e-9423-b76546d150ce</tstamps>
+    </comp>
+    <comp ref="Q15">
+      <value>PNP</value>
+      <fields>
+        <field name="Sim.Device">PNP</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="PNP" description="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="Sim.Device" value="PNP"/>
+      <property name="Sim.Type" value="GUMMELPOON"/>
+      <property name="Sim.Pins" value="1=C 2=B 3=E"/>
+      <property name="Sheetname" value="dc motor h-brug"/>
+      <property name="Sheetfile" value="dc_motor_hbrug.kicad_sch"/>
+      <property name="ki_description" value="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="ki_keywords" value="simulation"/>
+      <sheetpath names="/dc motor h-brug/" tstamps="/62d47e78-f395-456b-b57c-baf817e3ac92/"/>
+      <tstamps>c32157c9-fb6c-42f2-8114-f837c13bf196</tstamps>
+    </comp>
+    <comp ref="Q16">
+      <value>NPN</value>
+      <fields>
+        <field name="Sim.Device">NPN</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="NPN" description="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="Sim.Device" value="NPN"/>
+      <property name="Sim.Type" value="GUMMELPOON"/>
+      <property name="Sim.Pins" value="1=C 2=B 3=E"/>
+      <property name="Sheetname" value="dc motor h-brug"/>
+      <property name="Sheetfile" value="dc_motor_hbrug.kicad_sch"/>
+      <property name="ki_description" value="Bipolar transistor symbol for simulation only, substrate tied to the emitter"/>
+      <property name="ki_keywords" value="simulation"/>
+      <sheetpath names="/dc motor h-brug/" tstamps="/62d47e78-f395-456b-b57c-baf817e3ac92/"/>
+      <tstamps>46655859-563d-4bf6-abd6-37ffc1a19ea2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Motor" part="Motor_DC">
+      <description>DC Motor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>PinHeader*P2.54mm*</fp>
+        <fp>TerminalBlock*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">Motor_DC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simulation_SPICE" part="NPN">
+      <description>Bipolar transistor symbol for simulation only, substrate tied to the emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">NPN</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">NPN</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="open_collector"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="open_emitter"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simulation_SPICE" part="PNP">
+      <description>Bipolar transistor symbol for simulation only, substrate tied to the emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PNP</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">PNP</field>
+        <field name="Sim.Type">GUMMELPOON</field>
+        <field name="Sim.Pins">1=C 2=B 3=E</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="open_collector"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="open_emitter"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC547">
+      <description>0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BC550-D.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC547</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/BC550-D.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Motor">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Motor.kicad_sym</uri>
+    </library>
+    <library logical="Simulation_SPICE">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Simulation_SPICE.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q10" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q11" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q12" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q14" pin="3" pinfunction="E" pintype="open_emitter"/>
+      <node ref="Q16" pin="1" pinfunction="C" pintype="open_collector"/>
+      <node ref="Q2" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="Q7" pin="3" pinfunction="E" pintype="open_emitter"/>
+      <node ref="Q8" pin="1" pinfunction="C" pintype="open_collector"/>
+      <node ref="Q9" pin="1" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D6-K)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D7-K)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D8-K)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D9-K)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D15-K)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q9" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D16-K)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q10" pin="1" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D17-K)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q11" pin="3" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D18-K)">
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q12" pin="1" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(M1-+)">
+      <node ref="M1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="E" pintype="open_emitter"/>
+      <node ref="Q7" pin="1" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="21" name="Net-(M1--)">
+      <node ref="M1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="C" pintype="open_collector"/>
+      <node ref="Q8" pin="3" pinfunction="E" pintype="open_emitter"/>
+    </net>
+    <net code="22" name="Net-(M2-+)">
+      <node ref="M2" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="Q13" pin="3" pinfunction="E" pintype="open_emitter"/>
+      <node ref="Q14" pin="1" pinfunction="C" pintype="open_collector"/>
+    </net>
+    <net code="23" name="Net-(M2--)">
+      <node ref="M2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="Q15" pin="1" pinfunction="C" pintype="open_collector"/>
+      <node ref="Q16" pin="3" pinfunction="E" pintype="open_emitter"/>
+    </net>
+    <net code="24" name="Net-(Q1-B)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(Q2-B)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(Q3-B)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(Q4-B)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(Q9-B)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="Q9" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(Q10-B)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="Q10" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(Q11-B)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="Q11" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(Q12-B)">
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="Q12" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="VCC">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q13" pin="1" pinfunction="C" pintype="open_collector"/>
+      <node ref="Q15" pin="3" pinfunction="E" pintype="open_emitter"/>
+      <node ref="Q5" pin="1" pinfunction="C" pintype="open_collector"/>
+      <node ref="Q6" pin="3" pinfunction="E" pintype="open_emitter"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="unconnected-(Q5-B-Pad2)">
+      <node ref="Q5" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="34" name="unconnected-(Q6-B-Pad2)">
+      <node ref="Q6" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="35" name="unconnected-(Q7-B-Pad2)">
+      <node ref="Q7" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="36" name="unconnected-(Q8-B-Pad2)">
+      <node ref="Q8" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="37" name="unconnected-(Q13-B-Pad2)">
+      <node ref="Q13" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="38" name="unconnected-(Q14-B-Pad2)">
+      <node ref="Q14" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="39" name="unconnected-(Q15-B-Pad2)">
+      <node ref="Q15" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="40" name="unconnected-(Q16-B-Pad2)">
+      <node ref="Q16" pin="2" pinfunction="B" pintype="input"/>
+    </net>
+  </nets>
+</export>
