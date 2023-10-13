@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1696856493 source:c:\brug project\code\analog_input_test\fuse.c
+	<avr/io.h>
+
+1697117944 source:c:\brug project\code\analog_input_test\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<stdio.h>
+

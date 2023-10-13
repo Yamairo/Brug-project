@@ -491,6 +491,10 @@
     [
       "62d47e78-f395-456b-b57c-baf817e3ac92",
       "dc motor h-brug"
+    ],
+    [
+      "b86b60a1-6a3c-454a-9361-857a5c051ffa",
+      "Atmega 2560"
     ]
   ],
   "text_variables": {}
